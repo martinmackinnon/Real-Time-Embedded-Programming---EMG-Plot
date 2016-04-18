@@ -1,0 +1,9 @@
+This is code to read the output of channel 1 of an AD7705 ADC and plot it 
+in a GUI.
+
+To build:
+
+>> qmake EMGProject.pro
+>> make
+
+
